@@ -20,3 +20,7 @@ Input data:
 Expected output: 
 Each household and number of occupants, followed by:
 Each First Name, Last Name, Address and Age sorted by Last Name then First Name where the occupant(s) is older than 18
+
+
+Actual output optained locally:
+![image](https://github.com/user-attachments/assets/1107a6aa-517a-453a-9d56-7c0230c3f08d)
